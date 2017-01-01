@@ -26,7 +26,6 @@ This is a code base of todo-api's examples written in ES6 for study purposes.
 * **hapi-knex-api**
 * **hapi-couchdb-api**
 * **hapi-neo4j-api**
-* **koa-mongoose-api**
 * **koa-knex-api**
 * **koa-sequelize-api**
 * **koa-leveldb-api**
@@ -57,6 +56,7 @@ New project's are welcome! If you want to contribute, please [click here to foll
 - Caio Ribeiro Pereira - [@crp_underground](https://twitter.com/crp_underground)
 - Beto Muniz - [betomuniz.com](http://betomuniz.com)
 - Itacir Ferreira Pompeu- [pompeu.github.io](http://pompeu.github.io)
+- Manoel Freitas - [laedanthehuman](laedanthehuman.github.io)
 
 ## License
 
